@@ -1,11 +1,12 @@
 <div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=egg&color=a5aaf3&height=120&text=morecodeplease~&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 😊Hi there🤑 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> Everyday's lesson </div> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😊Hi there🤑 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> Everyday's lesson </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
           <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=white">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
@@ -23,7 +24,7 @@
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://velog.io/@zerohyun__> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@zerohyun__"> </a>
          <a href=mailto:kyhh39@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyhh39@gmail.com"> </a>
           </div>  <br> 

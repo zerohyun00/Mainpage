@@ -28,5 +28,7 @@
          <a href=mailto:kyhh39@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:kyhh39@gmail.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerohyun00&show_icons=true&theme=dracula)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerohyun00&layout=compact&theme=dracula)
     </div>
     

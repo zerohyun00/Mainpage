@@ -22,7 +22,7 @@
 
 <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon%20ECS-FF9900?style=flat-square&logo=Amazon%20ECS&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20RDS-FF9900?style=flat-square&logo=Amazon%20RDS&logoColor=white">
 <br/>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
